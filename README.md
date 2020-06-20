@@ -16,8 +16,6 @@ serta bisa diterapkan disegala bidang industri Saat ini.
 
 ### Contoh Syntax Python :
 
-'''
 print("Hello World")
-'''
 
 > Hasil : Hello World
