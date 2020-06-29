@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 print("PROGRAM KONVERSI SUHU")
 print(" 1.Konversi ke Suhu Farenheit\n","2.Konversi ke Suhu Reamur\n","3.Konversi ke Suhu Kelvin")
 suhu = int(input("Masukkan Suhu Celcius : "))
