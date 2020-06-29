@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 '''def insertion(array)
 	print("list yang akan dibuat:"array)
 	for index in range(1,len(array)):
