@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 #buat fungsi kuadrat yang didalamnya memuat parameter angka
 def kuadrat(angka):
 #lalu kembalikan nilai angka dan kuadratkan
