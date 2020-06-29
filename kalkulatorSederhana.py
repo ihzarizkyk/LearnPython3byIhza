@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim, userghost
+'''
+
 print(".: Program Kalkulator Sederhana :.")
 print("Program ini dapat menghitung operasi matematika sederhana dari dua bilangan yang diinputkan.")
 print("Silahkan pilih salah satu operasi matematika berikut ini:")
