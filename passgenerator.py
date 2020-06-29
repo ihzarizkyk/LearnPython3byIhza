@@ -1,3 +1,6 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
 import random
 
 userpass = input("Masukkan Password : ")
