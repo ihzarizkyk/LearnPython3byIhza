@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 user = "admin"
 varpass = "passwordnyarahasia"
 username = input("Masukan Username : ")
