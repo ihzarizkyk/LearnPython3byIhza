@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim, userghost
+'''
+
 kas_awal = 500000000
 nama_barang = input("Nama Barang : ")
 jumlah_barang =int(input("Jumlah Barang : "))
