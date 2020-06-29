@@ -1,3 +1,6 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
 loop = True 
 counter = 0
 
