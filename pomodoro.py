@@ -1,3 +1,6 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
 import time
 
 def pomodoro(mulai_mnt,mulai_dtk):
