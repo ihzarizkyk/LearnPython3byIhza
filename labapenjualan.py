@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim, userghost, gian
+'''
+
 nama_nasabah = ['Anita','Budi','Cahya','Didit','Erni','Fahri']
 saldo = [[2500000,5000000,1000000,4000000],#Anita
         [2500000,4000000,750000,3000000],#Budi
