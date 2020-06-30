@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 nilai = int(input("Nilai Inputan : "))
 print(nilai)
 
