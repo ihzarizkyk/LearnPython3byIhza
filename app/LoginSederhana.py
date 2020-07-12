@@ -1,3 +1,6 @@
+"""
+Author : Mochammad Ihza Rizky Karim
+"""
 user = ("admin")
 varpass = ("ihza")
 count = 1
